@@ -1,4 +1,2 @@
-# AI-Driven-SMS-Spam-Classifier
-The AI-Driven-SMS-Spam-Classifier project leverages the power of the OpenAI library to tackle the challenge of SMS spam detection. The primary objective is to develop an intelligent system that can accurately label incoming messages as either spam or non-spam. This involves utilizing OpenAI's capabilities to analyze and understand the sentiment of text messages, in addition to utilizing TensorFlow's natural language processing (NLP) capabilities.
-
-The project follows a two-step approach. First, the OpenAI library is employed to process and classify the messages, identifying those that are likely to be spam. This initial labeling step serves as a foundation for the subsequent phase. In the second step, a deep learning model is trained using the labeled dataset. This model is designed to learn patterns, features, and characteristics specific to spam messages, enabling it to make informed predictions about new, unseen messages.
+# SMS-Spam-Classifier
+The SMS-Spam-Classifier project utilizes TensorFlow's natural language processing (NLP) capabilities to create separate classification model. A deep learning model is trained using a pre-labeled dataset. This model is designed to learn patterns, features, and characteristics specific to spam messages, enabling it to make informed predictions about new, unseen messages.
